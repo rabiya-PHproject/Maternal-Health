@@ -32,7 +32,7 @@
 
 ---
 
-## 📈 Key Findings *(to be added after analysis)*
+## 📈 Key Findings 
 - X% of women were anemic  
 - Y% were identified as high-risk pregnancies  
 - Z% delivered at health facilities  
