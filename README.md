@@ -33,10 +33,10 @@
 ---
 
 ## 📈 Key Findings 
-- X% of women were anemic  
-- Y% were identified as high-risk pregnancies  
-- Z% delivered at health facilities  
-- N% flagged as critical risk using custom logic
+- 26% of women were anemic
+- 80.2% were identified as high-risk pregnancies  
+- 85% women delivered at health facilities  
+- 28.7% flagged as critical risk using custom logic
 
 ---
 
