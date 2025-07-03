@@ -43,7 +43,9 @@
 ## 🌍 Impact
 This type of logical, Excel-based maternal risk flagging could be easily replicated in low-resource settings for early detection and prioritization of high-risk pregnancies.
 
+
 ## 📄 Project Infographic
 
-[Click here to view the infographic (PDF)](./Maternal_Health_Data Poster.pdf)
+[Click here to view the infographic (PDF)](./Maternal_Health_Data_Poster.pdf)
+
 
