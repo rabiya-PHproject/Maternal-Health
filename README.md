@@ -45,7 +45,7 @@ This type of logical, Excel-based maternal risk flagging could be easily replica
 
 
 ## 📄 Project Infographic
+[Click here to view the infographic (PDF)](./Maternal%20Health%20Data%20Poster.pdf)
 
-[Click here to view the infographic (PDF)](./Maternal_Health_Data_Poster.pdf)
 
 
